@@ -3,3 +3,5 @@ Rencana Bulan Desember
   * untuk HTML harus paham secara penuh 
   * untuk Css harus paham minimal Css Dasar, Layouting, Css3, Flexbox, Grid, & Bootstrap
 -Sudah memahami Javascript & MySql
+-Mahir dalam Bahasa Python & PHP
+-Mahir aplikasi Photoshop & Ilustrator 

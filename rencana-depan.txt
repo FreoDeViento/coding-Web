@@ -1,0 +1,3 @@
+Rencana Bulan Desember 
+-Sudah mahir HTML & Css
+-Sudah memahami Javascript & MySql
